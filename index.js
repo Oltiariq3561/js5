@@ -166,3 +166,57 @@
 
 // for9
 
+// let a = + prompt("son");
+
+// let b = + prompt("son");
+
+// let s=1;
+
+// for(let i =a; i<= b; i++) {
+// s = s * i*i;
+
+// }
+// console.log(s);
+
+
+// for 10
+
+// let a = + prompt("son");
+
+// let s = 0
+
+// for(let i =1; i<=a; i++){
+// s=s+1/i;
+
+
+// }
+// console.log(s);
+
+
+// for11
+
+// let a = + prompt("son");
+
+// let s = 0;
+
+// for(let i =0; i<=a; i++){
+// s=s+Math.pow((a+i),2);
+
+
+// }
+// console.log(s);
+
+
+// for12
+
+// let a= + prompt("son");
+
+// let s=1;
+// let j=1.1;
+
+// for(let i = 1; i<=a; i++){
+// s=s*j;
+// j=j+0.1;
+// }
+
+// console.log(s);
