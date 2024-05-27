@@ -78,7 +78,7 @@
 // for (let i = 1; i <= n; i++) {
 //     if (n%i==0){
 
-//         count++
+//         count++;
 
 //         console.log(count);
 //     }
@@ -104,6 +104,52 @@
 // }else{
 // console.log("tub emas");
 // }
+
+
+// for1
+
+// let k = + prompt("son");
+
+// let n = + prompt("son");
+
+// for(let i = 1; i<=n; i++){
+// console.log(k);
+// }
+
+
+// for2
+
+// let a = + prompt("son");
+
+// let b = + prompt("son");
+
+// let count=0;
+
+// for(let i = 1; a<=b; a++){
+
+//     count++
+// console.log(a);
+
+// }
+// console.log("qancha son borligi",count);
+
+
+// for3
+
+// let a = + prompt("son");
+
+// let b = + prompt("son");
+
+// let count=0;
+
+// for(let i = b - 1; i > a; i--){
+
+//     count++
+
+//     console.log(i);
+
+// }
+// console.log("qancha son borligi",count);
 
 
 
